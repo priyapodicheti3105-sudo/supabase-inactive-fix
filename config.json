@@ -1,0 +1,8 @@
+[
+  {
+    "name": "MyTelegramFinanceAppAgent",
+    "supabase_url": "https://kmhiygjbmeibdyihhblg.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImttaGl5Z2pibWVpYmR5aWhoYmxnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI1OTg3MTgsImV4cCI6MjA3ODE3NDcxOH0.mrTCtPchVUEuZ_UIQgdVbS_xzL8qtjfqRVWZIJ7c0QY",
+    "table_name": "keep-alive"
+  }
+]
